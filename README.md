@@ -1,1 +1,1 @@
-# os-lab-4-sudoku-solver
+# os-lab-3-sudoku-solver
